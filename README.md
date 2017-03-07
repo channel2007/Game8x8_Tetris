@@ -1,7 +1,7 @@
 # 前言
  使用Arduino開發板實作簡易掌機
 
-# 開發工具說明 
+# 開發工具 
  本範例使用Visual Studio 2015 + [Arduino IDE for Visual Studio](https://marketplace.visualstudio.com/items?itemName=VisualMicro.ArduinoIDEforVisualStudio)開發
 
 # 範例詳細說明請參考以下連接   
